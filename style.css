@@ -1,0 +1,21 @@
+.title1 {
+    background-color: black;
+    color: white;
+
+}
+
+#color {
+    color: aqua;
+}
+
+.title2 {
+    background-color: blueviolet;
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
+
+.title3 {
+    background-color: cornflowerblue;
+    text-align: right;
+}
